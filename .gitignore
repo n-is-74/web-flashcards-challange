@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+.DS_Store
+
+### React SSR ###
+# Ignore build files
+public/app.js
+public/vendor.js
